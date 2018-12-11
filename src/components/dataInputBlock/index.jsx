@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { DataInputField } from '../dataInputField';
+import { DataInputField } from '../datainputfield';
 
 export class DataInputBlock extends Component {
     render() {

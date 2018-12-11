@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { InputField } from '../inputField';
+import { InputField } from '../inputfield';
 
 export class TaskInputBlock extends Component {
     render() {
